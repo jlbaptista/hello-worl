@@ -1,2 +1,2 @@
-# hello-worl
+# hello-world
 GitHub HelloWorld Guide
